@@ -19,18 +19,18 @@ The project has been made by me as part of self-learning process and with a desi
 - Static files to upload and render images on webpages 
 - Database relationships and SQLight admin panel with superuser
 ## Screenshots
-<p float="left">
-  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/login_page.png" width="450" />
-  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/register_page.png" width="450" /> 
+<p>
+  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/login_page.png" width="475" />
+  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/register_page.png" width="475" /> 
 </p>
 
-<p float="left">
-  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/customer_dashboard.png" width="450" />
-  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/user_profile.png" width="450" /> 
+<p>
+  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/customer_dashboard.png" width="475" />
+  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/user_profile.png" width="475" /> 
 </p>
 
-<p float="left">
-  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/admin_customer_page.png" width="450" />
-  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/products_page.png" width="450" /> 
+<p>
+  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/admin_customer_page.png" width="475" />
+  <img src="https://github.com/aidinatt8/customerDash/blob/master/screenshots/products_page.png" width="475" /> 
 </p>
 
